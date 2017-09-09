@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  activate_at: 2017-09-09 11:34:11
+  company_id: 1
+
+two:
+  name: MyString
+  activate_at: 2017-09-09 11:34:11
+  company_id: 1
